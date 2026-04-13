@@ -1,0 +1,43 @@
+1. What conclusion can you reach about the responses to this question?
+
+- The responses show a general trend, but there is some variation between participants. While some answers are similar, others differ based on individual preferences or situations.
+
+2. Is the default summary or visualization helpful? How could it be improved?
+
+- There is no default summary or visualization available in this dataset. Because of this, it is difficult to quickly understand patterns or trends in the responses. It could be improved by creating charts or summaries, such as bar charts or pivot tables, to make the data easier to analyze.
+
+3. For questions with an “Other” option, where can you find the actual text of those
+responses? Do you notice anything that might be tricky about analyzing these?
+
+- The actual text of “Other” responses can be found in the dataset itself, in the column where the responses are recorded. These responses may be difficult to analyze because people can write similar answers in different ways, which makes it harder to group and identify patterns.
+
+4. For questions calling for a written response, what challenges do you notice about
+finding trends or patterns in the answers provided?
+
+- One challenge is that responses are written in different ways, even when they express similar ideas. This makes it difficult to group answers and identify clear patterns. Additionally, some responses may be longer or more detailed than others, which makes consistent analysis harder.
+
+5. Now that you can see the responses, how might you recommend rephrasing this or
+question or the response options in a future survey?
+
+- I would recommend rephrasing the question by adding more structured answer choices instead of relying only on written responses. This would make it easier to compare answers and identify patterns.
+
+6. Is there anything that surprised you about the survey responses?
+
+- I was surprised by the wide age range of the participants. The responses included people born as early as 1996 and as late as 2005, which shows a diverse group with different experiences and perspectives.
+
+7. Looking at the responses to questions 1 and 5, are there any ideas you might try to
+include in your morning routine, or any questions that you are also curious about?
+
+- The questions in this survey are mostly focused on personal information such as name and age, so they are not directly related to a morning routine. Because of this, it is difficult to draw meaningful conclusions about routines or habits from the data. However, it does highlight that survey questions should be more aligned with the intended goal in future surveys.
+
+8. Pretend you are the instructor. Is there anything you can learn from this survey to help
+in how you approach teaching this class?
+
+- As an instructor, there is limited useful information from this survey because the questions mainly focus on basic personal details. However, the age differences suggest that students may have different levels of experience and learning styles, so it would be helpful to keep explanations clear and adaptable for a diverse group.
+
+9. Again, pretend you are the instructor. Do you think it was helpful or not helpful to
+make this survey anonymous? Why or why not? (If you can see both pros and cons,
+you may include both.)
+
+- The survey was intended to be anonymous, but since it collected names and other personal details, it was not fully anonymous. This may reduce how honest participants feel when answering. While anonymity can encourage more honest responses, collecting identifying information can make participants more cautious. This shows that the survey design could be improved by either removing personal questions or clearly defining whether it is anonymous or not.
+
