@@ -1,0 +1,15 @@
+id,start_time,completion_time,email,name,last_modified,visit_likelihood,main_factor,env_importance,visit_more_often,current_visit_freq,experience_improvement,loyalty_interest
+1,4/9/26 13:22:43,4/9/26 13:23:34,anonymous,,,Very likely,Atmosphere,5,Special events,Weekly,A good sound system and number of screens visible from everywhere in the cafe,Yes
+2,4/9/26 13:22:42,4/9/26 13:24:03,anonymous,,,Somewhat unlikely,Foods & Drinks,5,Free drinks/snacks,Weekly,Better seating and TV everywhere,No
+3,4/9/26 13:23:54,4/9/26 13:26:21,anonymous,,,Somewhat unlikely,Atmosphere,4,Free drinks/snacks,Seasonal,"Well, you captivated me already. I've never been to a sports caf ",Yes
+4,4/9/26 13:27:21,4/9/26 13:28:05,anonymous,,,Somewhat likely,Foods & Drinks,5,Loyalty point system,Seasonal,Maybe have things when big sports events aren't happening,Yes
+5,4/9/26 13:30:38,4/9/26 13:31:39,anonymous,,,Somewhat likely,Atmosphere,5,Loyalty point system,Seasonal,Rewards program,Yes
+6,4/9/26 13:29:54,4/9/26 13:34:20,anonymous,,,Very likely,Foods & Drinks,5,Free drinks/snacks,Seasonal,having bigger tv's,No
+7,4/9/26 13:34:01,4/9/26 13:34:51,anonymous,,,Somewhat likely,Atmosphere,5,Free drinks/snacks,Monthly,A bigger menu,Yes
+8,4/9/26 13:41:10,4/9/26 13:41:55,anonymous,,,Very likely,Foods & Drinks,5,Loyalty point system,Weekly,all good but you guys need to fix the hand dryer in the bathroom,Yes
+9,4/9/26 13:45:13,4/9/26 13:45:44,anonymous,,,Very likely,Atmosphere,5,Free drinks/snacks,Monthly,Sports game,Maybe
+10,4/9/26 13:50:28,4/9/26 13:51:38,anonymous,,,Somewhat likely,Atmosphere,5,Discounts,Monthly,"Better seating, good food and drinks, and a big screen for watching matches.",Yes
+11,4/9/26 13:39:31,4/9/26 13:52:08,anonymous,,,Very likely,Foods & Drinks,5,Special events,Monthly,A lot of TV's,Yes
+12,4/9/26 13:57:44,4/9/26 13:58:17,anonymous,,,Very likely,Foods & Drinks,5,Discounts,Weekly,Speed of service,Yes
+13,4/9/26 14:01:01,4/9/26 14:02:09,anonymous,,,Neither likely nor unlikely,Foods & Drinks,4,Loyalty point system,Weekly,Maybe offer happy hour,Yes
+14,4/9/26 14:27:17,4/9/26 14:58:36,anonymous,,,Very unlikely,Price,5,Loyalty point system,Weekly,"as long as the game is free, keep the drinks coming",Yes
