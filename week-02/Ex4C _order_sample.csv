@@ -1,0 +1,831 @@
+OrderID,OrderDate,ShipName,ShipCountry
+10248,"2023-07-04 00:00:00","Vins et alcools Chevalier",France
+10249,"2023-07-05 00:00:00","Toms Spezialitten",Germany
+10250,"2023-07-08 00:00:00","Hanari Carnes",Brazil
+10251,"2023-07-08 00:00:00","Victuailles en stock",France
+10252,"2023-07-09 00:00:00","Suprmes dlices",Belgium
+10253,"2023-07-10 00:00:00","Hanari Carnes",Brazil
+10254,"2023-07-11 00:00:00","Chop-suey Chinese",Switzerland
+10255,"2023-07-12 00:00:00","Richter Supermarkt",Switzerland
+10256,"2023-07-15 00:00:00","Wellington Importadora",Brazil
+10257,"2023-07-16 00:00:00",HILARION-Abastos,Venezuela
+10258,"2023-07-17 00:00:00","Ernst Handel",Austria
+10259,"2023-07-18 00:00:00","Centro comercial Moctezuma",Mexico
+10260,"2023-07-19 00:00:00","Ottilies Kseladen",Germany
+10261,"2023-07-19 00:00:00","Que Delcia",Brazil
+10262,"2023-07-22 00:00:00","Rattlesnake Canyon Grocery",USA
+10263,"2023-07-23 00:00:00","Ernst Handel",Austria
+10264,"2023-07-24 00:00:00","Folk och f HB",Sweden
+10265,"2023-07-25 00:00:00","Blondel pre et fils",France
+10266,"2023-07-26 00:00:00","Wartian Herkku",Finland
+10267,"2023-07-29 00:00:00",Frankenversand,Germany
+10268,"2023-07-30 00:00:00",GROSELLA-Restaurante,Venezuela
+10269,"2023-07-31 00:00:00","White Clover Markets",USA
+10270,"2023-08-01 00:00:00","Wartian Herkku",Finland
+10271,"2023-08-01 00:00:00","Split Rail Beer & Ale",USA
+10272,"2023-08-02 00:00:00","Rattlesnake Canyon Grocery",USA
+10273,"2023-08-05 00:00:00",QUICK-Stop,Germany
+10274,"2023-08-06 00:00:00","Vins et alcools Chevalier",France
+10275,"2023-08-07 00:00:00","Magazzini Alimentari Riuniti",Italy
+10276,"2023-08-08 00:00:00","Tortuga Restaurante",Mexico
+10277,"2023-08-09 00:00:00","Morgenstern Gesundkost",Germany
+10278,"2023-08-12 00:00:00","Berglunds snabbkp",Sweden
+10279,"2023-08-13 00:00:00","Lehmanns Marktstand",Germany
+10280,"2023-08-14 00:00:00","Berglunds snabbkp",Sweden
+10281,"2023-08-14 00:00:00","Romero y tomillo",Spain
+10282,"2023-08-15 00:00:00","Romero y tomillo",Spain
+10283,"2023-08-16 00:00:00",LILA-Supermercado,Venezuela
+10284,"2023-08-19 00:00:00","Lehmanns Marktstand",Germany
+10285,"2023-08-20 00:00:00",QUICK-Stop,Germany
+10286,"2023-08-21 00:00:00",QUICK-Stop,Germany
+10287,"2023-08-22 00:00:00","Ricardo Adocicados",Brazil
+10288,"2023-08-23 00:00:00","Reggiani Caseifici",Italy
+10289,"2023-08-26 00:00:00","B-s Beverages",UK
+10290,"2023-08-27 00:00:00","Comrcio Mineiro",Brazil
+10291,"2023-08-27 00:00:00","Que Delcia",Brazil
+10292,"2023-08-28 00:00:00","Tradiao Hipermercados",Brazil
+10293,"2023-08-29 00:00:00","Tortuga Restaurante",Mexico
+10294,"2023-08-30 00:00:00","Rattlesnake Canyon Grocery",USA
+10295,"2023-09-02 00:00:00","Vins et alcools Chevalier",France
+10296,"2023-09-03 00:00:00",LILA-Supermercado,Venezuela
+10297,"2023-09-04 00:00:00","Blondel pre et fils",France
+10298,"2023-09-05 00:00:00","Hungry Owl All-Night Grocers",Ireland
+10299,"2023-09-06 00:00:00","Ricardo Adocicados",Brazil
+10300,"2023-09-09 00:00:00","Magazzini Alimentari Riuniti",Italy
+10301,"2023-09-09 00:00:00","Die Wandernde Kuh",Germany
+10302,"2023-09-10 00:00:00","Suprmes dlices",Belgium
+10303,"2023-09-11 00:00:00","Godos Cocina Tpica",Spain
+10304,"2023-09-12 00:00:00","Tortuga Restaurante",Mexico
+10305,"2023-09-13 00:00:00","Old World Delicatessen",USA
+10306,"2023-09-16 00:00:00","Romero y tomillo",Spain
+10307,"2023-09-17 00:00:00","Lonesome Pine Restaurant",USA
+10308,"2023-09-18 00:00:00","Ana Trujillo Emparedados y helados",Mexico
+10309,"2023-09-19 00:00:00","Hungry Owl All-Night Grocers",Ireland
+10310,"2023-09-20 00:00:00","The Big Cheese",USA
+10311,"2023-09-20 00:00:00","Du monde entier",France
+10312,"2023-09-23 00:00:00","Die Wandernde Kuh",Germany
+10313,"2023-09-24 00:00:00",QUICK-Stop,Germany
+10314,"2023-09-25 00:00:00","Rattlesnake Canyon Grocery",USA
+10315,"2023-09-26 00:00:00","Island Trading",UK
+10316,"2023-09-27 00:00:00","Rattlesnake Canyon Grocery",USA
+10317,"2023-09-30 00:00:00","Lonesome Pine Restaurant",USA
+10318,"2023-10-01 00:00:00","Island Trading",UK
+10319,"2023-10-02 00:00:00","Tortuga Restaurante",Mexico
+10320,"2023-10-03 00:00:00","Wartian Herkku",Finland
+10321,"2023-10-03 00:00:00","Island Trading",UK
+10322,"2023-10-04 00:00:00","Pericles Comidas clsicas",Mexico
+10323,"2023-10-07 00:00:00","Kniglich Essen",Germany
+10324,"2023-10-08 00:00:00","Save-a-lot Markets",USA
+10325,"2023-10-09 00:00:00","Kniglich Essen",Germany
+10326,"2023-10-10 00:00:00","Blido Comidas preparadas",Spain
+10327,"2023-10-11 00:00:00","Folk och f HB",Sweden
+10328,"2023-10-14 00:00:00","Furia Bacalhau e Frutos do Mar",Portugal
+10329,"2023-10-15 00:00:00","Split Rail Beer & Ale",USA
+10330,"2023-10-16 00:00:00",LILA-Supermercado,Venezuela
+10331,"2023-10-16 00:00:00","Bon app-",France
+10332,"2023-10-17 00:00:00","Mre Paillarde",Canada
+10333,"2023-10-18 00:00:00","Wartian Herkku",Finland
+10334,"2023-10-21 00:00:00","Victuailles en stock",France
+10335,"2023-10-22 00:00:00","Hungry Owl All-Night Grocers",Ireland
+10336,"2023-10-23 00:00:00","Princesa Isabel Vinhos",Portugal
+10337,"2023-10-24 00:00:00",Frankenversand,Germany
+10338,"2023-10-25 00:00:00","Old World Delicatessen",USA
+10339,"2023-10-28 00:00:00","Mre Paillarde",Canada
+10340,"2023-10-29 00:00:00","Bon app-",France
+10341,"2023-10-29 00:00:00","Simons bistro",Denmark
+10342,"2023-10-30 00:00:00",Frankenversand,Germany
+10343,"2023-10-31 00:00:00","Lehmanns Marktstand",Germany
+10344,"2023-11-01 00:00:00","White Clover Markets",USA
+10345,"2023-11-04 00:00:00",QUICK-Stop,Germany
+10346,"2023-11-05 00:00:00","Rattlesnake Canyon Grocery",USA
+10347,"2023-11-06 00:00:00","Familia Arquibaldo",Brazil
+10348,"2023-11-07 00:00:00","Die Wandernde Kuh",Germany
+10349,"2023-11-08 00:00:00","Split Rail Beer & Ale",USA
+10350,"2023-11-11 00:00:00","La maison d-Asie",France
+10351,"2023-11-11 00:00:00","Ernst Handel",Austria
+10352,"2023-11-12 00:00:00","Furia Bacalhau e Frutos do Mar",Portugal
+10353,"2023-11-13 00:00:00","Piccolo und mehr",Austria
+10354,"2023-11-14 00:00:00","Pericles Comidas clsicas",Mexico
+10355,"2023-11-15 00:00:00","Around the Horn",UK
+10356,"2023-11-18 00:00:00","Die Wandernde Kuh",Germany
+10357,"2023-11-19 00:00:00",LILA-Supermercado,Venezuela
+10358,"2023-11-20 00:00:00","La maison d-Asie",France
+10359,"2023-11-21 00:00:00","Seven Seas Imports",UK
+10360,"2023-11-22 00:00:00","Blondel pre et fils",France
+10361,"2023-11-22 00:00:00",QUICK-Stop,Germany
+10362,"2023-11-25 00:00:00","Bon app-",France
+10363,"2023-11-26 00:00:00","Drachenblut Delikatessen",Germany
+10364,"2023-11-26 00:00:00","Eastern Connection",UK
+10365,"2023-11-27 00:00:00","Antonio Moreno Taquera",Mexico
+10366,"2023-11-28 00:00:00","Galera del gastronmo",Spain
+10367,"2023-11-28 00:00:00",Vaffeljernet,Denmark
+10368,"2023-11-29 00:00:00","Ernst Handel",Austria
+10369,"2023-12-02 00:00:00","Split Rail Beer & Ale",USA
+10370,"2023-12-03 00:00:00","Chop-suey Chinese",Switzerland
+10371,"2023-12-03 00:00:00","La maison d-Asie",France
+10372,"2023-12-04 00:00:00","Queen Cozinha",Brazil
+10373,"2023-12-05 00:00:00","Hungry Owl All-Night Grocers",Ireland
+10374,"2023-12-05 00:00:00","Wolski Zajazd",Poland
+10375,"2023-12-06 00:00:00","Hungry Coyote Import Store",USA
+10376,"2023-12-09 00:00:00","Mre Paillarde",Canada
+10377,"2023-12-09 00:00:00","Seven Seas Imports",UK
+10378,"2023-12-10 00:00:00","Folk och f HB",Sweden
+10379,"2023-12-11 00:00:00","Que Delcia",Brazil
+10380,"2023-12-12 00:00:00","Hungry Owl All-Night Grocers",Ireland
+10381,"2023-12-12 00:00:00",LILA-Supermercado,Venezuela
+10382,"2023-12-13 00:00:00","Ernst Handel",Austria
+10383,"2023-12-16 00:00:00","Around the Horn",UK
+10384,"2023-12-16 00:00:00","Berglunds snabbkp",Sweden
+10385,"2023-12-17 00:00:00","Split Rail Beer & Ale",USA
+10386,"2023-12-18 00:00:00","Familia Arquibaldo",Brazil
+10387,"2023-12-18 00:00:00","Sant Gourmet",Norway
+10388,"2023-12-19 00:00:00","Seven Seas Imports",UK
+10389,"2023-12-20 00:00:00","Bottom-Dollar Markets",Canada
+10390,"2023-12-23 00:00:00","Ernst Handel",Austria
+10391,"2023-12-23 00:00:00","Drachenblut Delikatessen",Germany
+10392,"2023-12-24 00:00:00","Piccolo und mehr",Austria
+10393,"2023-12-25 00:00:00","Save-a-lot Markets",USA
+10394,"2023-12-25 00:00:00","Hungry Coyote Import Store",USA
+10395,"2023-12-26 00:00:00",HILARION-Abastos,Venezuela
+10396,"2023-12-27 00:00:00",Frankenversand,Germany
+10397,"2023-12-27 00:00:00","Princesa Isabel Vinhos",Portugal
+10398,"2023-12-30 00:00:00","Save-a-lot Markets",USA
+10399,"2023-12-31 00:00:00",Vaffeljernet,Denmark
+10400,"2024-01-01 00:00:00","Eastern Connection",UK
+10401,"2024-01-01 00:00:00","Rattlesnake Canyon Grocery",USA
+10402,"2024-01-02 00:00:00","Ernst Handel",Austria
+10403,"2024-01-03 00:00:00","Ernst Handel",Austria
+10404,"2024-01-03 00:00:00","Magazzini Alimentari Riuniti",Italy
+10405,"2024-01-06 00:00:00",LINO-Delicateses,Venezuela
+10406,"2024-01-07 00:00:00","Queen Cozinha",Brazil
+10407,"2024-01-07 00:00:00","Ottilies Kseladen",Germany
+10408,"2024-01-08 00:00:00","Folies gourmandes",France
+10409,"2024-01-09 00:00:00","Ocano Atlntico Ltda.",Argentina
+10410,"2024-01-10 00:00:00","Bottom-Dollar Markets",Canada
+10411,"2024-01-10 00:00:00","Bottom-Dollar Markets",Canada
+10412,"2024-01-13 00:00:00","Wartian Herkku",Finland
+10413,"2024-01-14 00:00:00","La maison d-Asie",France
+10414,"2024-01-14 00:00:00","Familia Arquibaldo",Brazil
+10415,"2024-01-15 00:00:00","Hungry Coyote Import Store",USA
+10416,"2024-01-16 00:00:00","Wartian Herkku",Finland
+10417,"2024-01-16 00:00:00","Simons bistro",Denmark
+10418,"2024-01-17 00:00:00",QUICK-Stop,Germany
+10419,"2024-01-20 00:00:00","Richter Supermarkt",Switzerland
+10420,"2024-01-21 00:00:00","Wellington Importadora",Brazil
+10421,"2024-01-21 00:00:00","Que Delcia",Brazil
+10422,"2024-01-22 00:00:00","Franchi S.p.A.",Italy
+10423,"2024-01-23 00:00:00","Gourmet Lanchonetes",Brazil
+10424,"2024-01-23 00:00:00","Mre Paillarde",Canada
+10425,"2024-01-24 00:00:00","La maison d-Asie",France
+10426,"2024-01-27 00:00:00","Galera del gastronmo",Spain
+10427,"2024-01-27 00:00:00","Piccolo und mehr",Austria
+10428,"2024-01-28 00:00:00","Reggiani Caseifici",Italy
+10429,"2024-01-29 00:00:00","Hungry Owl All-Night Grocers",Ireland
+10430,"2024-01-30 00:00:00","Ernst Handel",Austria
+10431,"2024-01-30 00:00:00","Bottom-Dollar Markets",Canada
+10432,"2024-01-31 00:00:00","Split Rail Beer & Ale",USA
+10433,"2024-02-03 00:00:00","Princesa Isabel Vinhos",Portugal
+10434,"2024-02-03 00:00:00","Folk och f HB",Sweden
+10435,"2024-02-04 00:00:00","Consolidated Holdings",UK
+10436,"2024-02-05 00:00:00","Blondel pre et fils",France
+10437,"2024-02-05 00:00:00","Wartian Herkku",Finland
+10438,"2024-02-06 00:00:00","Toms Spezialitten",Germany
+10439,"2024-02-07 00:00:00","Mre Paillarde",Canada
+10440,"2024-02-10 00:00:00","Save-a-lot Markets",USA
+10441,"2024-02-10 00:00:00","Old World Delicatessen",USA
+10442,"2024-02-11 00:00:00","Ernst Handel",Austria
+10443,"2024-02-12 00:00:00","Reggiani Caseifici",Italy
+10444,"2024-02-12 00:00:00","Berglunds snabbkp",Sweden
+10445,"2024-02-13 00:00:00","Berglunds snabbkp",Sweden
+10446,"2024-02-14 00:00:00","Toms Spezialitten",Germany
+10447,"2024-02-14 00:00:00","Ricardo Adocicados",Brazil
+10448,"2024-02-17 00:00:00","Rancho grande",Argentina
+10449,"2024-02-18 00:00:00","Blondel pre et fils",France
+10450,"2024-02-19 00:00:00","Victuailles en stock",France
+10451,"2024-02-19 00:00:00",QUICK-Stop,Germany
+10452,"2024-02-20 00:00:00","Save-a-lot Markets",USA
+10453,"2024-02-21 00:00:00","Around the Horn",UK
+10454,"2024-02-21 00:00:00","La maison d-Asie",France
+10455,"2024-02-24 00:00:00","Wartian Herkku",Finland
+10456,"2024-02-25 00:00:00","Kniglich Essen",Germany
+10457,"2024-02-25 00:00:00","Kniglich Essen",Germany
+10458,"2024-02-26 00:00:00","Suprmes dlices",Belgium
+10459,"2024-02-27 00:00:00","Victuailles en stock",France
+10460,"2024-02-28 00:00:00","Folk och f HB",Sweden
+10461,"2024-02-28 00:00:00",LILA-Supermercado,Venezuela
+10462,"2024-03-03 00:00:00","Consolidated Holdings",UK
+10463,"2024-03-04 00:00:00","Suprmes dlices",Belgium
+10464,"2024-03-04 00:00:00","Furia Bacalhau e Frutos do Mar",Portugal
+10465,"2024-03-05 00:00:00",Vaffeljernet,Denmark
+10466,"2024-03-06 00:00:00","Comrcio Mineiro",Brazil
+10467,"2024-03-06 00:00:00","Magazzini Alimentari Riuniti",Italy
+10468,"2024-03-07 00:00:00","Kniglich Essen",Germany
+10469,"2024-03-10 00:00:00","White Clover Markets",USA
+10470,"2024-03-11 00:00:00","Bon app-",France
+10471,"2024-03-11 00:00:00","B-s Beverages",UK
+10472,"2024-03-12 00:00:00","Seven Seas Imports",UK
+10473,"2024-03-13 00:00:00","Island Trading",UK
+10474,"2024-03-13 00:00:00","Pericles Comidas clsicas",Mexico
+10475,"2024-03-14 00:00:00","Suprmes dlices",Belgium
+10476,"2024-03-17 00:00:00",HILARION-Abastos,Venezuela
+10477,"2024-03-17 00:00:00","Princesa Isabel Vinhos",Portugal
+10478,"2024-03-18 00:00:00","Victuailles en stock",France
+10479,"2024-03-19 00:00:00","Rattlesnake Canyon Grocery",USA
+10480,"2024-03-20 00:00:00","Folies gourmandes",France
+10481,"2024-03-20 00:00:00","Ricardo Adocicados",Brazil
+10482,"2024-03-21 00:00:00","Lazy K Kountry Store",USA
+10483,"2024-03-24 00:00:00","White Clover Markets",USA
+10484,"2024-03-24 00:00:00","B-s Beverages",UK
+10485,"2024-03-25 00:00:00",LINO-Delicateses,Venezuela
+10486,"2024-03-26 00:00:00",HILARION-Abastos,Venezuela
+10487,"2024-03-26 00:00:00","Queen Cozinha",Brazil
+10488,"2024-03-27 00:00:00",Frankenversand,Germany
+10489,"2024-03-28 00:00:00","Piccolo und mehr",Austria
+10490,"2024-03-31 00:00:00",HILARION-Abastos,Venezuela
+10491,"2024-03-31 00:00:00","Furia Bacalhau e Frutos do Mar",Portugal
+10492,"2024-04-01 00:00:00","Bottom-Dollar Markets",Canada
+10493,"2024-04-02 00:00:00","La maison d-Asie",France
+10494,"2024-04-02 00:00:00","Comrcio Mineiro",Brazil
+10495,"2024-04-03 00:00:00","Laughing Bacchus Wine Cellars",Canada
+10496,"2024-04-04 00:00:00","Tradiao Hipermercados",Brazil
+10497,"2024-04-04 00:00:00","Lehmanns Marktstand",Germany
+10498,"2024-04-07 00:00:00",HILARION-Abastos,Venezuela
+10499,"2024-04-08 00:00:00",LILA-Supermercado,Venezuela
+10500,"2024-04-09 00:00:00","La maison d-Asie",France
+10501,"2024-04-09 00:00:00","Blauer See Delikatessen",Germany
+10502,"2024-04-10 00:00:00","Pericles Comidas clsicas",Mexico
+10503,"2024-04-11 00:00:00","Hungry Owl All-Night Grocers",Ireland
+10504,"2024-04-11 00:00:00","White Clover Markets",USA
+10505,"2024-04-14 00:00:00","Mre Paillarde",Canada
+10506,"2024-04-15 00:00:00","Kniglich Essen",Germany
+10507,"2024-04-15 00:00:00","Antonio Moreno Taquera",Mexico
+10508,"2024-04-16 00:00:00","Ottilies Kseladen",Germany
+10509,"2024-04-17 00:00:00","Blauer See Delikatessen",Germany
+10510,"2024-04-18 00:00:00","Save-a-lot Markets",USA
+10511,"2024-04-18 00:00:00","Bon app-",France
+10512,"2024-04-21 00:00:00","Familia Arquibaldo",Brazil
+10513,"2024-04-22 00:00:00","Die Wandernde Kuh",Germany
+10514,"2024-04-22 00:00:00","Ernst Handel",Austria
+10515,"2024-04-23 00:00:00",QUICK-Stop,Germany
+10516,"2024-04-24 00:00:00","Hungry Owl All-Night Grocers",Ireland
+10517,"2024-04-24 00:00:00",North/South,UK
+10518,"2024-04-25 00:00:00","Tortuga Restaurante",Mexico
+10519,"2024-04-28 00:00:00","Chop-suey Chinese",Switzerland
+10520,"2024-04-29 00:00:00","Sant Gourmet",Norway
+10521,"2024-04-29 00:00:00","Cactus Comidas para llevar",Argentina
+10522,"2024-04-30 00:00:00","Lehmanns Marktstand",Germany
+10523,"2024-05-01 00:00:00","Seven Seas Imports",UK
+10524,"2024-05-01 00:00:00","Berglunds snabbkp",Sweden
+10525,"2024-05-02 00:00:00","Bon app-",France
+10526,"2024-05-05 00:00:00","Wartian Herkku",Finland
+10527,"2024-05-05 00:00:00",QUICK-Stop,Germany
+10528,"2024-05-06 00:00:00","Great Lakes Food Market",USA
+10529,"2024-05-07 00:00:00","Maison Dewey",Belgium
+10530,"2024-05-08 00:00:00","Piccolo und mehr",Austria
+10531,"2024-05-08 00:00:00","Ocano Atlntico Ltda.",Argentina
+10532,"2024-05-09 00:00:00","Eastern Connection",UK
+10533,"2024-05-12 00:00:00","Folk och f HB",Sweden
+10534,"2024-05-12 00:00:00","Lehmanns Marktstand",Germany
+10535,"2024-05-13 00:00:00","Antonio Moreno Taquera",Mexico
+10536,"2024-05-14 00:00:00","Lehmanns Marktstand",Germany
+10537,"2024-05-14 00:00:00","Richter Supermarkt",Switzerland
+10538,"2024-05-15 00:00:00","B-s Beverages",UK
+10539,"2024-05-16 00:00:00","B-s Beverages",UK
+10540,"2024-05-19 00:00:00",QUICK-Stop,Germany
+10541,"2024-05-19 00:00:00","Hanari Carnes",Brazil
+10542,"2024-05-20 00:00:00","Kniglich Essen",Germany
+10543,"2024-05-21 00:00:00",LILA-Supermercado,Venezuela
+10544,"2024-05-21 00:00:00","Lonesome Pine Restaurant",USA
+10545,"2024-05-22 00:00:00","Lazy K Kountry Store",USA
+10546,"2024-05-23 00:00:00","Victuailles en stock",France
+10547,"2024-05-23 00:00:00","Seven Seas Imports",UK
+10548,"2024-05-26 00:00:00","Toms Spezialitten",Germany
+10549,"2024-05-27 00:00:00",QUICK-Stop,Germany
+10550,"2024-05-28 00:00:00","Godos Cocina Tpica",Spain
+10551,"2024-05-28 00:00:00","Furia Bacalhau e Frutos do Mar",Portugal
+10552,"2024-05-29 00:00:00",HILARION-Abastos,Venezuela
+10553,"2024-05-30 00:00:00","Wartian Herkku",Finland
+10554,"2024-05-30 00:00:00","Ottilies Kseladen",Germany
+10555,"2024-06-02 00:00:00","Save-a-lot Markets",USA
+10556,"2024-06-03 00:00:00","Simons bistro",Denmark
+10557,"2024-06-03 00:00:00","Lehmanns Marktstand",Germany
+10558,"2024-06-04 00:00:00","Around the Horn",UK
+10559,"2024-06-05 00:00:00","Blondel pre et fils",France
+10560,"2024-06-06 00:00:00",Frankenversand,Germany
+10561,"2024-06-06 00:00:00","Folk och f HB",Sweden
+10562,"2024-06-09 00:00:00","Reggiani Caseifici",Italy
+10563,"2024-06-10 00:00:00","Ricardo Adocicados",Brazil
+10564,"2024-06-10 00:00:00","Rattlesnake Canyon Grocery",USA
+10565,"2024-06-11 00:00:00","Mre Paillarde",Canada
+10566,"2024-06-12 00:00:00","Blondel pre et fils",France
+10567,"2024-06-12 00:00:00","Hungry Owl All-Night Grocers",Ireland
+10568,"2024-06-13 00:00:00","Galera del gastronmo",Spain
+10569,"2024-06-16 00:00:00","Rattlesnake Canyon Grocery",USA
+10570,"2024-06-17 00:00:00","Mre Paillarde",Canada
+10571,"2024-06-17 00:00:00","Ernst Handel",Austria
+10572,"2024-06-18 00:00:00","Berglunds snabbkp",Sweden
+10573,"2024-06-19 00:00:00","Antonio Moreno Taquera",Mexico
+10574,"2024-06-19 00:00:00","Trail-s Head Gourmet Provisioners",USA
+10575,"2024-06-20 00:00:00","Morgenstern Gesundkost",Germany
+10576,"2024-06-23 00:00:00","Tortuga Restaurante",Mexico
+10577,"2024-06-23 00:00:00","Trail-s Head Gourmet Provisioners",USA
+10578,"2024-06-24 00:00:00","B-s Beverages",UK
+10579,"2024-06-25 00:00:00","Let-s Stop N Shop",USA
+10580,"2024-06-26 00:00:00","Ottilies Kseladen",Germany
+10581,"2024-06-26 00:00:00","Familia Arquibaldo",Brazil
+10582,"2024-06-27 00:00:00","Blauer See Delikatessen",Germany
+10583,"2024-06-30 00:00:00","Wartian Herkku",Finland
+10584,"2024-06-30 00:00:00","Blondel pre et fils",France
+10585,"2024-07-01 00:00:00","Wellington Importadora",Brazil
+10586,"2024-07-02 00:00:00","Reggiani Caseifici",Italy
+10587,"2024-07-02 00:00:00","Que Delcia",Brazil
+10588,"2024-07-03 00:00:00",QUICK-Stop,Germany
+10589,"2024-07-04 00:00:00","Great Lakes Food Market",USA
+10590,"2024-07-07 00:00:00","Mre Paillarde",Canada
+10591,"2024-07-07 00:00:00",Vaffeljernet,Denmark
+10592,"2024-07-08 00:00:00","Lehmanns Marktstand",Germany
+10593,"2024-07-09 00:00:00","Lehmanns Marktstand",Germany
+10594,"2024-07-09 00:00:00","Old World Delicatessen",USA
+10595,"2024-07-10 00:00:00","Ernst Handel",Austria
+10596,"2024-07-11 00:00:00","White Clover Markets",USA
+10597,"2024-07-11 00:00:00","Piccolo und mehr",Austria
+10598,"2024-07-14 00:00:00","Rattlesnake Canyon Grocery",USA
+10599,"2024-07-15 00:00:00","B-s Beverages",UK
+10600,"2024-07-16 00:00:00","Hungry Coyote Import Store",USA
+10601,"2024-07-16 00:00:00",HILARION-Abastos,Venezuela
+10602,"2024-07-17 00:00:00",Vaffeljernet,Denmark
+10603,"2024-07-18 00:00:00","Save-a-lot Markets",USA
+10604,"2024-07-18 00:00:00","Furia Bacalhau e Frutos do Mar",Portugal
+10605,"2024-07-21 00:00:00","Mre Paillarde",Canada
+10606,"2024-07-22 00:00:00","Tradiao Hipermercados",Brazil
+10607,"2024-07-22 00:00:00","Save-a-lot Markets",USA
+10608,"2024-07-23 00:00:00","Toms Spezialitten",Germany
+10609,"2024-07-24 00:00:00","Du monde entier",France
+10610,"2024-07-25 00:00:00","La maison d-Asie",France
+10611,"2024-07-25 00:00:00","Wolski Zajazd",Poland
+10612,"2024-07-28 00:00:00","Save-a-lot Markets",USA
+10613,"2024-07-29 00:00:00",HILARION-Abastos,Venezuela
+10614,"2024-07-29 00:00:00","Blauer See Delikatessen",Germany
+10615,"2024-07-30 00:00:00","Wilman Kala",Finland
+10616,"2024-07-31 00:00:00","Great Lakes Food Market",USA
+10617,"2024-07-31 00:00:00","Great Lakes Food Market",USA
+10618,"2024-08-01 00:00:00","Mre Paillarde",Canada
+10619,"2024-08-04 00:00:00","Mre Paillarde",Canada
+10620,"2024-08-05 00:00:00","Laughing Bacchus Wine Cellars",Canada
+10621,"2024-08-05 00:00:00","Island Trading",UK
+10622,"2024-08-06 00:00:00","Ricardo Adocicados",Brazil
+10623,"2024-08-07 00:00:00",Frankenversand,Germany
+10624,"2024-08-07 00:00:00","The Cracker Box",USA
+10625,"2024-08-08 00:00:00","Ana Trujillo Emparedados y helados",Mexico
+10626,"2024-08-11 00:00:00","Berglunds snabbkp",Sweden
+10627,"2024-08-11 00:00:00","Save-a-lot Markets",USA
+10628,"2024-08-12 00:00:00","Blondel pre et fils",France
+10629,"2024-08-12 00:00:00","Godos Cocina Tpica",Spain
+10630,"2024-08-13 00:00:00","Kniglich Essen",Germany
+10631,"2024-08-14 00:00:00","La maison d-Asie",France
+10632,"2024-08-14 00:00:00","Die Wandernde Kuh",Germany
+10633,"2024-08-15 00:00:00","Ernst Handel",Austria
+10634,"2024-08-15 00:00:00","Folies gourmandes",France
+10635,"2024-08-18 00:00:00","Magazzini Alimentari Riuniti",Italy
+10636,"2024-08-19 00:00:00","Wartian Herkku",Finland
+10637,"2024-08-19 00:00:00","Queen Cozinha",Brazil
+10638,"2024-08-20 00:00:00",LINO-Delicateses,Venezuela
+10639,"2024-08-20 00:00:00","Sant Gourmet",Norway
+10640,"2024-08-21 00:00:00","Die Wandernde Kuh",Germany
+10641,"2024-08-22 00:00:00",HILARION-Abastos,Venezuela
+10642,"2024-08-22 00:00:00","Simons bistro",Denmark
+10643,"2024-08-25 00:00:00","Alfreds Futterkiste",Germany
+10644,"2024-08-25 00:00:00","Wellington Importadora",Brazil
+10645,"2024-08-26 00:00:00","Hanari Carnes",Brazil
+10646,"2024-08-27 00:00:00","Hungry Owl All-Night Grocers",Ireland
+10647,"2024-08-27 00:00:00","Que Delcia",Brazil
+10648,"2024-08-28 00:00:00","Ricardo Adocicados",Brazil
+10649,"2024-08-28 00:00:00","Maison Dewey",Belgium
+10650,"2024-08-29 00:00:00","Familia Arquibaldo",Brazil
+10651,"2024-09-01 00:00:00","Die Wandernde Kuh",Germany
+10652,"2024-09-01 00:00:00","Gourmet Lanchonetes",Brazil
+10653,"2024-09-02 00:00:00",Frankenversand,Germany
+10654,"2024-09-02 00:00:00","Berglunds snabbkp",Sweden
+10655,"2024-09-03 00:00:00","Reggiani Caseifici",Italy
+10656,"2024-09-04 00:00:00","Great Lakes Food Market",USA
+10657,"2024-09-04 00:00:00","Save-a-lot Markets",USA
+10658,"2024-09-05 00:00:00",QUICK-Stop,Germany
+10659,"2024-09-05 00:00:00","Queen Cozinha",Brazil
+10660,"2024-09-08 00:00:00","Hungry Coyote Import Store",USA
+10661,"2024-09-09 00:00:00","Hungry Owl All-Night Grocers",Ireland
+10662,"2024-09-09 00:00:00","Lonesome Pine Restaurant",USA
+10663,"2024-09-10 00:00:00","Bon app-",France
+10664,"2024-09-10 00:00:00","Furia Bacalhau e Frutos do Mar",Portugal
+10665,"2024-09-11 00:00:00","Lonesome Pine Restaurant",USA
+10666,"2024-09-12 00:00:00","Richter Supermarkt",Switzerland
+10667,"2024-09-12 00:00:00","Ernst Handel",Austria
+10668,"2024-09-15 00:00:00","Die Wandernde Kuh",Germany
+10669,"2024-09-15 00:00:00","Simons bistro",Denmark
+10670,"2024-09-16 00:00:00",Frankenversand,Germany
+10671,"2024-09-17 00:00:00","France restauration",France
+10672,"2024-09-17 00:00:00","Berglunds snabbkp",Sweden
+10673,"2024-09-18 00:00:00","Wilman Kala",Finland
+10674,"2024-09-18 00:00:00","Island Trading",UK
+10675,"2024-09-19 00:00:00",Frankenversand,Germany
+10676,"2024-09-22 00:00:00","Tortuga Restaurante",Mexico
+10677,"2024-09-22 00:00:00","Antonio Moreno Taquera",Mexico
+10678,"2024-09-23 00:00:00","Save-a-lot Markets",USA
+10679,"2024-09-23 00:00:00","Blondel pre et fils",France
+10680,"2024-09-24 00:00:00","Old World Delicatessen",USA
+10681,"2024-09-25 00:00:00","Great Lakes Food Market",USA
+10682,"2024-09-25 00:00:00","Antonio Moreno Taquera",Mexico
+10683,"2024-09-26 00:00:00","Du monde entier",France
+10684,"2024-09-26 00:00:00","Ottilies Kseladen",Germany
+10685,"2024-09-29 00:00:00","Gourmet Lanchonetes",Brazil
+10686,"2024-09-30 00:00:00","Piccolo und mehr",Austria
+10687,"2024-09-30 00:00:00","Hungry Owl All-Night Grocers",Ireland
+10688,"2024-10-01 00:00:00",Vaffeljernet,Denmark
+10689,"2024-10-01 00:00:00","Berglunds snabbkp",Sweden
+10690,"2024-10-02 00:00:00","Hanari Carnes",Brazil
+10691,"2024-10-03 00:00:00",QUICK-Stop,Germany
+10692,"2024-10-03 00:00:00","Alfred-s Futterkiste",Germany
+10693,"2024-10-06 00:00:00","White Clover Markets",USA
+10694,"2024-10-06 00:00:00",QUICK-Stop,Germany
+10695,"2024-10-07 00:00:00","Wilman Kala",Finland
+10696,"2024-10-08 00:00:00","White Clover Markets",USA
+10697,"2024-10-08 00:00:00",LINO-Delicateses,Venezuela
+10698,"2024-10-09 00:00:00","Ernst Handel",Austria
+10699,"2024-10-09 00:00:00","Morgenstern Gesundkost",Germany
+10700,"2024-10-10 00:00:00","Save-a-lot Markets",USA
+10701,"2024-10-13 00:00:00","Hungry Owl All-Night Grocers",Ireland
+10702,"2024-10-13 00:00:00","Alfred-s Futterkiste",Germany
+10703,"2024-10-14 00:00:00","Folk och f HB",Sweden
+10704,"2024-10-14 00:00:00","Queen Cozinha",Brazil
+10705,"2024-10-15 00:00:00",HILARION-Abastos,Venezuela
+10706,"2024-10-16 00:00:00","Old World Delicatessen",USA
+10707,"2024-10-16 00:00:00","Around the Horn",UK
+10708,"2024-10-17 00:00:00","The Big Cheese",USA
+10709,"2024-10-17 00:00:00","Gourmet Lanchonetes",Brazil
+10710,"2024-10-20 00:00:00","Franchi S.p.A.",Italy
+10711,"2024-10-21 00:00:00","Save-a-lot Markets",USA
+10712,"2024-10-21 00:00:00","Hungry Owl All-Night Grocers",Ireland
+10713,"2024-10-22 00:00:00","Save-a-lot Markets",USA
+10714,"2024-10-22 00:00:00","Save-a-lot Markets",USA
+10715,"2024-10-23 00:00:00","Bon app-",France
+10716,"2024-10-24 00:00:00","Rancho grande",Argentina
+10717,"2024-10-24 00:00:00",Frankenversand,Germany
+10718,"2024-10-27 00:00:00","Kniglich Essen",Germany
+10719,"2024-10-27 00:00:00","Let-s Stop N Shop",USA
+10720,"2024-10-28 00:00:00","Que Delcia",Brazil
+10721,"2024-10-29 00:00:00",QUICK-Stop,Germany
+10722,"2024-10-29 00:00:00","Save-a-lot Markets",USA
+10723,"2024-10-30 00:00:00","White Clover Markets",USA
+10724,"2024-10-30 00:00:00","Mre Paillarde",Canada
+10725,"2024-10-31 00:00:00","Familia Arquibaldo",Brazil
+10726,"2024-11-03 00:00:00","Eastern Connection",UK
+10727,"2024-11-03 00:00:00","Reggiani Caseifici",Italy
+10728,"2024-11-04 00:00:00","Queen Cozinha",Brazil
+10729,"2024-11-04 00:00:00",LINO-Delicateses,Venezuela
+10730,"2024-11-05 00:00:00","Bon app-",France
+10731,"2024-11-06 00:00:00","Chop-suey Chinese",Switzerland
+10732,"2024-11-06 00:00:00","Bon app-",France
+10733,"2024-11-07 00:00:00","Berglunds snabbkp",Sweden
+10734,"2024-11-07 00:00:00","Gourmet Lanchonetes",Brazil
+10735,"2024-11-10 00:00:00","Let-s Stop N Shop",USA
+10736,"2024-11-11 00:00:00","Hungry Owl All-Night Grocers",Ireland
+10737,"2024-11-11 00:00:00","Vins et alcools Chevalier",France
+10738,"2024-11-12 00:00:00","Spcialits du monde",France
+10739,"2024-11-12 00:00:00","Vins et alcools Chevalier",France
+10740,"2024-11-13 00:00:00","White Clover Markets",USA
+10741,"2024-11-14 00:00:00","Around the Horn",UK
+10742,"2024-11-14 00:00:00","Bottom-Dollar Markets",Canada
+10743,"2024-11-17 00:00:00","Around the Horn",UK
+10744,"2024-11-17 00:00:00",Vaffeljernet,Denmark
+10745,"2024-11-18 00:00:00",QUICK-Stop,Germany
+10746,"2024-11-19 00:00:00","Chop-suey Chinese",Switzerland
+10747,"2024-11-19 00:00:00","Piccolo und mehr",Austria
+10748,"2024-11-20 00:00:00","Save-a-lot Markets",USA
+10749,"2024-11-20 00:00:00","Island Trading",UK
+10750,"2024-11-21 00:00:00","Wartian Herkku",Finland
+10751,"2024-11-24 00:00:00","Richter Supermarkt",Switzerland
+10752,"2024-11-24 00:00:00",North/South,UK
+10753,"2024-11-25 00:00:00","Franchi S.p.A.",Italy
+10754,"2024-11-25 00:00:00","Magazzini Alimentari Riuniti",Italy
+10755,"2024-11-26 00:00:00","Bon app-",France
+10756,"2024-11-27 00:00:00","Split Rail Beer & Ale",USA
+10757,"2024-11-27 00:00:00","Save-a-lot Markets",USA
+10758,"2024-11-28 00:00:00","Richter Supermarkt",Switzerland
+10759,"2024-11-28 00:00:00","Ana Trujillo Emparedados y helados",Mexico
+10760,"2024-12-01 00:00:00","Maison Dewey",Belgium
+10761,"2024-12-02 00:00:00","Rattlesnake Canyon Grocery",USA
+10762,"2024-12-02 00:00:00","Folk och f HB",Sweden
+10763,"2024-12-03 00:00:00","Folies gourmandes",France
+10764,"2024-12-03 00:00:00","Ernst Handel",Austria
+10765,"2024-12-04 00:00:00",QUICK-Stop,Germany
+10766,"2024-12-05 00:00:00","Ottilies Kseladen",Germany
+10767,"2024-12-05 00:00:00","Suprmes dlices",Belgium
+10768,"2024-12-08 00:00:00","Around the Horn",UK
+10769,"2024-12-08 00:00:00",Vaffeljernet,Denmark
+10770,"2024-12-09 00:00:00","Hanari Carnes",Brazil
+10771,"2024-12-10 00:00:00","Ernst Handel",Austria
+10772,"2024-12-10 00:00:00","Lehmanns Marktstand",Germany
+10773,"2024-12-11 00:00:00","Ernst Handel",Austria
+10774,"2024-12-11 00:00:00","Folk och f HB",Sweden
+10775,"2024-12-12 00:00:00","The Cracker Box",USA
+10776,"2024-12-15 00:00:00","Ernst Handel",Austria
+10777,"2024-12-15 00:00:00","Gourmet Lanchonetes",Brazil
+10778,"2024-12-16 00:00:00","Berglunds snabbkp",Sweden
+10779,"2024-12-16 00:00:00","Morgenstern Gesundkost",Germany
+10780,"2024-12-16 00:00:00",LILA-Supermercado,Venezuela
+10781,"2024-12-17 00:00:00","Wartian Herkku",Finland
+10782,"2024-12-17 00:00:00","Cactus Comidas para llevar",Argentina
+10783,"2024-12-18 00:00:00","Hanari Carnes",Brazil
+10784,"2024-12-18 00:00:00","Magazzini Alimentari Riuniti",Italy
+10785,"2024-12-18 00:00:00",GROSELLA-Restaurante,Venezuela
+10786,"2024-12-19 00:00:00","Queen Cozinha",Brazil
+10787,"2024-12-19 00:00:00","La maison d-Asie",France
+10788,"2024-12-22 00:00:00",QUICK-Stop,Germany
+10789,"2024-12-22 00:00:00","Folies gourmandes",France
+10790,"2024-12-22 00:00:00","Gourmet Lanchonetes",Brazil
+10791,"2024-12-23 00:00:00",Frankenversand,Germany
+10792,"2024-12-23 00:00:00","Wolski Zajazd",Poland
+10793,"2024-12-24 00:00:00","Around the Horn",UK
+10794,"2024-12-24 00:00:00","Que Delcia",Brazil
+10795,"2024-12-24 00:00:00","Ernst Handel",Austria
+10796,"2024-12-25 00:00:00",HILARION-Abastos,Venezuela
+10797,"2024-12-25 00:00:00","Drachenblut Delikatessen",Germany
+10798,"2024-12-26 00:00:00","Island Trading",UK
+10799,"2024-12-26 00:00:00","Kniglich Essen",Germany
+10800,"2024-12-26 00:00:00","Seven Seas Imports",UK
+10801,"2024-12-29 00:00:00","Blido Comidas preparadas",Spain
+10802,"2024-12-29 00:00:00","Simons bistro",Denmark
+10803,"2024-12-30 00:00:00","Wellington Importadora",Brazil
+10804,"2024-12-30 00:00:00","Seven Seas Imports",UK
+10805,"2024-12-30 00:00:00","The Big Cheese",USA
+10806,"2024-12-31 00:00:00","Victuailles en stock",France
+10807,"2024-12-31 00:00:00","Franchi S.p.A.",Italy
+10808,"2025-01-01 00:00:00","Old World Delicatessen",USA
+10809,"2025-01-01 00:00:00","Wellington Importadora",Brazil
+10810,"2025-01-01 00:00:00","Laughing Bacchus Wine Cellars",Canada
+10811,"2025-01-02 00:00:00",LINO-Delicateses,Venezuela
+10812,"2025-01-02 00:00:00","Reggiani Caseifici",Italy
+10813,"2025-01-05 00:00:00","Ricardo Adocicados",Brazil
+10814,"2025-01-05 00:00:00","Victuailles en stock",France
+10815,"2025-01-05 00:00:00","Save-a-lot Markets",USA
+10816,"2025-01-06 00:00:00","Great Lakes Food Market",USA
+10817,"2025-01-06 00:00:00","Kniglich Essen",Germany
+10818,"2025-01-07 00:00:00","Magazzini Alimentari Riuniti",Italy
+10819,"2025-01-07 00:00:00","Cactus Comidas para llevar",Argentina
+10820,"2025-01-07 00:00:00","Rattlesnake Canyon Grocery",USA
+10821,"2025-01-08 00:00:00","Split Rail Beer & Ale",USA
+10822,"2025-01-08 00:00:00","Trail-s Head Gourmet Provisioners",USA
+10823,"2025-01-09 00:00:00",LILA-Supermercado,Venezuela
+10824,"2025-01-09 00:00:00","Folk och f HB",Sweden
+10825,"2025-01-09 00:00:00","Drachenblut Delikatessen",Germany
+10826,"2025-01-12 00:00:00","Blondel pre et fils",France
+10827,"2025-01-12 00:00:00","Bon app-",France
+10828,"2025-01-13 00:00:00","Rancho grande",Argentina
+10829,"2025-01-13 00:00:00","Island Trading",UK
+10830,"2025-01-13 00:00:00","Tradiao Hipermercados",Brazil
+10831,"2025-01-14 00:00:00","Sant Gourmet",Norway
+10832,"2025-01-14 00:00:00","La maison d-Asie",France
+10833,"2025-01-15 00:00:00","Ottilies Kseladen",Germany
+10834,"2025-01-15 00:00:00","Tradiao Hipermercados",Brazil
+10835,"2025-01-15 00:00:00","Alfred-s Futterkiste",Germany
+10836,"2025-01-16 00:00:00","Ernst Handel",Austria
+10837,"2025-01-16 00:00:00","Berglunds snabbkp",Sweden
+10838,"2025-01-19 00:00:00",LINO-Delicateses,Venezuela
+10839,"2025-01-19 00:00:00","Tradiao Hipermercados",Brazil
+10840,"2025-01-19 00:00:00",LINO-Delicateses,Venezuela
+10841,"2025-01-20 00:00:00","Suprmes dlices",Belgium
+10842,"2025-01-20 00:00:00","Tortuga Restaurante",Mexico
+10843,"2025-01-21 00:00:00","Victuailles en stock",France
+10844,"2025-01-21 00:00:00","Piccolo und mehr",Austria
+10845,"2025-01-21 00:00:00",QUICK-Stop,Germany
+10846,"2025-01-22 00:00:00","Suprmes dlices",Belgium
+10847,"2025-01-22 00:00:00","Save-a-lot Markets",USA
+10848,"2025-01-23 00:00:00","Consolidated Holdings",UK
+10849,"2025-01-23 00:00:00","Kniglich Essen",Germany
+10850,"2025-01-23 00:00:00","Victuailles en stock",France
+10851,"2025-01-26 00:00:00","Ricardo Adocicados",Brazil
+10852,"2025-01-26 00:00:00","Rattlesnake Canyon Grocery",USA
+10853,"2025-01-27 00:00:00","Blauer See Delikatessen",Germany
+10854,"2025-01-27 00:00:00","Ernst Handel",Austria
+10855,"2025-01-27 00:00:00","Old World Delicatessen",USA
+10856,"2025-01-28 00:00:00","Antonio Moreno Taquera",Mexico
+10857,"2025-01-28 00:00:00","Berglunds snabbkp",Sweden
+10858,"2025-01-29 00:00:00","La corne d-abondance",France
+10859,"2025-01-29 00:00:00",Frankenversand,Germany
+10860,"2025-01-29 00:00:00","France restauration",France
+10861,"2025-01-30 00:00:00","White Clover Markets",USA
+10862,"2025-01-30 00:00:00","Lehmanns Marktstand",Germany
+10863,"2025-02-02 00:00:00",HILARION-Abastos,Venezuela
+10864,"2025-02-02 00:00:00","Around the Horn",UK
+10865,"2025-02-02 00:00:00",QUICK-Stop,Germany
+10866,"2025-02-03 00:00:00","Berglunds snabbkp",Sweden
+10867,"2025-02-03 00:00:00","Lonesome Pine Restaurant",USA
+10868,"2025-02-04 00:00:00","Queen Cozinha",Brazil
+10869,"2025-02-04 00:00:00","Seven Seas Imports",UK
+10870,"2025-02-04 00:00:00","Wolski Zajazd",Poland
+10871,"2025-02-05 00:00:00","Bon app-",France
+10872,"2025-02-05 00:00:00","Godos Cocina Tpica",Spain
+10873,"2025-02-06 00:00:00","Wilman Kala",Finland
+10874,"2025-02-06 00:00:00","Godos Cocina Tpica",Spain
+10875,"2025-02-06 00:00:00","Berglunds snabbkp",Sweden
+10876,"2025-02-09 00:00:00","Bon app-",France
+10877,"2025-02-09 00:00:00","Ricardo Adocicados",Brazil
+10878,"2025-02-10 00:00:00",QUICK-Stop,Germany
+10879,"2025-02-10 00:00:00","Wilman Kala",Finland
+10880,"2025-02-10 00:00:00","Folk och f HB",Sweden
+10881,"2025-02-11 00:00:00","Cactus Comidas para llevar",Argentina
+10882,"2025-02-11 00:00:00","Save-a-lot Markets",USA
+10883,"2025-02-12 00:00:00","Lonesome Pine Restaurant",USA
+10884,"2025-02-12 00:00:00","Let-s Stop N Shop",USA
+10885,"2025-02-12 00:00:00","Suprmes dlices",Belgium
+10886,"2025-02-13 00:00:00","Hanari Carnes",Brazil
+10887,"2025-02-13 00:00:00","Galera del gastronmo",Spain
+10888,"2025-02-16 00:00:00","Godos Cocina Tpica",Spain
+10889,"2025-02-16 00:00:00","Rattlesnake Canyon Grocery",USA
+10890,"2025-02-16 00:00:00","Du monde entier",France
+10891,"2025-02-17 00:00:00","Lehmanns Marktstand",Germany
+10892,"2025-02-17 00:00:00","Maison Dewey",Belgium
+10893,"2025-02-18 00:00:00","Kniglich Essen",Germany
+10894,"2025-02-18 00:00:00","Save-a-lot Markets",USA
+10895,"2025-02-18 00:00:00","Ernst Handel",Austria
+10896,"2025-02-19 00:00:00","Maison Dewey",Belgium
+10897,"2025-02-19 00:00:00","Hungry Owl All-Night Grocers",Ireland
+10898,"2025-02-20 00:00:00","Ocano Atlntico Ltda.",Argentina
+10899,"2025-02-20 00:00:00",LILA-Supermercado,Venezuela
+10900,"2025-02-20 00:00:00","Wellington Importadora",Brazil
+10901,"2025-02-23 00:00:00",HILARION-Abastos,Venezuela
+10902,"2025-02-23 00:00:00","Folk och f HB",Sweden
+10903,"2025-02-24 00:00:00","Hanari Carnes",Brazil
+10904,"2025-02-24 00:00:00","White Clover Markets",USA
+10905,"2025-02-24 00:00:00","Wellington Importadora",Brazil
+10906,"2025-02-25 00:00:00","Wolski Zajazd",Poland
+10907,"2025-02-25 00:00:00","Spcialits du monde",France
+10908,"2025-02-26 00:00:00","Reggiani Caseifici",Italy
+10909,"2025-02-26 00:00:00","Sant Gourmet",Norway
+10910,"2025-02-26 00:00:00","Wilman Kala",Finland
+10911,"2025-02-26 00:00:00","Godos Cocina Tpica",Spain
+10912,"2025-02-26 00:00:00","Hungry Owl All-Night Grocers",Ireland
+10913,"2025-02-26 00:00:00","Queen Cozinha",Brazil
+10914,"2025-02-27 00:00:00","Queen Cozinha",Brazil
+10915,"2025-02-27 00:00:00","Tortuga Restaurante",Mexico
+10916,"2025-02-27 00:00:00","Rancho grande",Argentina
+10917,"2025-03-02 00:00:00","Romero y tomillo",Spain
+10918,"2025-03-02 00:00:00","Bottom-Dollar Markets",Canada
+10919,"2025-03-02 00:00:00",LINO-Delicateses,Venezuela
+10920,"2025-03-03 00:00:00","Around the Horn",UK
+10921,"2025-03-03 00:00:00",Vaffeljernet,Denmark
+10922,"2025-03-03 00:00:00","Hanari Carnes",Brazil
+10923,"2025-03-03 00:00:00","La maison d-Asie",France
+10924,"2025-03-04 00:00:00","Berglunds snabbkp",Sweden
+10925,"2025-03-04 00:00:00","Hanari Carnes",Brazil
+10926,"2025-03-04 00:00:00","Ana Trujillo Emparedados y helados",Mexico
+10927,"2025-03-05 00:00:00","La corne d-abondance",France
+10928,"2025-03-05 00:00:00","Galera del gastronmo",Spain
+10929,"2025-03-05 00:00:00",Frankenversand,Germany
+10930,"2025-03-06 00:00:00","Suprmes dlices",Belgium
+10931,"2025-03-06 00:00:00","Richter Supermarkt",Switzerland
+10932,"2025-03-06 00:00:00","Bon app-",France
+10933,"2025-03-06 00:00:00","Island Trading",UK
+10934,"2025-03-09 00:00:00","Lehmanns Marktstand",Germany
+10935,"2025-03-09 00:00:00","Wellington Importadora",Brazil
+10936,"2025-03-09 00:00:00","Great Lakes Food Market",USA
+10937,"2025-03-10 00:00:00","Cactus Comidas para llevar",Argentina
+10938,"2025-03-10 00:00:00",QUICK-Stop,Germany
+10939,"2025-03-10 00:00:00","Magazzini Alimentari Riuniti",Italy
+10940,"2025-03-11 00:00:00","Bon app-",France
+10941,"2025-03-11 00:00:00","Save-a-lot Markets",USA
+10942,"2025-03-11 00:00:00","Reggiani Caseifici",Italy
+10943,"2025-03-11 00:00:00","B-s Beverages",UK
+10944,"2025-03-12 00:00:00","Bottom-Dollar Markets",Canada
+10945,"2025-03-12 00:00:00","Morgenstern Gesundkost",Germany
+10946,"2025-03-12 00:00:00",Vaffeljernet,Denmark
+10947,"2025-03-13 00:00:00","B-s Beverages",UK
+10948,"2025-03-13 00:00:00","Godos Cocina Tpica",Spain
+10949,"2025-03-13 00:00:00","Bottom-Dollar Markets",Canada
+10950,"2025-03-16 00:00:00","Magazzini Alimentari Riuniti",Italy
+10951,"2025-03-16 00:00:00","Richter Supermarkt",Switzerland
+10952,"2025-03-16 00:00:00","Alfred-s Futterkiste",Germany
+10953,"2025-03-16 00:00:00","Around the Horn",UK
+10954,"2025-03-17 00:00:00",LINO-Delicateses,Venezuela
+10955,"2025-03-17 00:00:00","Folk och f HB",Sweden
+10956,"2025-03-17 00:00:00","Blauer See Delikatessen",Germany
+10957,"2025-03-18 00:00:00",HILARION-Abastos,Venezuela
+10958,"2025-03-18 00:00:00","Ocano Atlntico Ltda.",Argentina
+10959,"2025-03-18 00:00:00","Gourmet Lanchonetes",Brazil
+10960,"2025-03-19 00:00:00",HILARION-Abastos,Venezuela
+10961,"2025-03-19 00:00:00","Queen Cozinha",Brazil
+10962,"2025-03-19 00:00:00",QUICK-Stop,Germany
+10963,"2025-03-19 00:00:00","Furia Bacalhau e Frutos do Mar",Portugal
+10964,"2025-03-20 00:00:00","Spcialits du monde",France
+10965,"2025-03-20 00:00:00","Old World Delicatessen",USA
+10966,"2025-03-20 00:00:00","Chop-suey Chinese",Switzerland
+10967,"2025-03-23 00:00:00","Toms Spezialitten",Germany
+10968,"2025-03-23 00:00:00","Ernst Handel",Austria
+10969,"2025-03-23 00:00:00","Comrcio Mineiro",Brazil
+10970,"2025-03-24 00:00:00","Blido Comidas preparadas",Spain
+10971,"2025-03-24 00:00:00","France restauration",France
+10972,"2025-03-24 00:00:00","La corne d-abondance",France
+10973,"2025-03-24 00:00:00","La corne d-abondance",France
+10974,"2025-03-25 00:00:00","Split Rail Beer & Ale",USA
+10975,"2025-03-25 00:00:00","Bottom-Dollar Markets",Canada
+10976,"2025-03-25 00:00:00",HILARION-Abastos,Venezuela
+10977,"2025-03-26 00:00:00","Folk och f HB",Sweden
+10978,"2025-03-26 00:00:00","Maison Dewey",Belgium
+10979,"2025-03-26 00:00:00","Ernst Handel",Austria
+10980,"2025-03-27 00:00:00","Folk och f HB",Sweden
+10981,"2025-03-27 00:00:00","Hanari Carnes",Brazil
+10982,"2025-03-27 00:00:00","Bottom-Dollar Markets",Canada
+10983,"2025-03-27 00:00:00","Save-a-lot Markets",USA
+10984,"2025-03-30 00:00:00","Save-a-lot Markets",USA
+10985,"2025-03-30 00:00:00","Hungry Owl All-Night Grocers",Ireland
+10986,"2025-03-30 00:00:00","Ocano Atlntico Ltda.",Argentina
+10987,"2025-03-31 00:00:00","Eastern Connection",UK
+10988,"2025-03-31 00:00:00","Rattlesnake Canyon Grocery",USA
+10989,"2025-03-31 00:00:00","Que Delcia",Brazil
+10990,"2025-04-01 00:00:00","Ernst Handel",Austria
+10991,"2025-04-01 00:00:00",QUICK-Stop,Germany
+10992,"2025-04-01 00:00:00","The Big Cheese",USA
+10993,"2025-04-01 00:00:00","Folk och f HB",Sweden
+10994,"2025-04-02 00:00:00",Vaffeljernet,Denmark
+10995,"2025-04-02 00:00:00","Pericles Comidas clsicas",Mexico
+10996,"2025-04-02 00:00:00",QUICK-Stop,Germany
+10997,"2025-04-03 00:00:00",LILA-Supermercado,Venezuela
+10998,"2025-04-03 00:00:00","Wolski Zajazd",Poland
+10999,"2025-04-03 00:00:00","Ottilies Kseladen",Germany
+11000,"2025-04-06 00:00:00","Rattlesnake Canyon Grocery",USA
+11001,"2025-04-06 00:00:00","Folk och f HB",Sweden
+11002,"2025-04-06 00:00:00","Save-a-lot Markets",USA
+11003,"2025-04-06 00:00:00","The Cracker Box",USA
+11004,"2025-04-07 00:00:00","Maison Dewey",Belgium
+11005,"2025-04-07 00:00:00","Wilman Kala",Finland
+11006,"2025-04-07 00:00:00","Great Lakes Food Market",USA
+11007,"2025-04-08 00:00:00","Princesa Isabel Vinhos",Portugal
+11008,"2025-04-08 00:00:00","Ernst Handel",Austria
+11009,"2025-04-08 00:00:00","Godos Cocina Tpica",Spain
+11010,"2025-04-09 00:00:00","Reggiani Caseifici",Italy
+11011,"2025-04-09 00:00:00","Alfred-s Futterkiste",Germany
+11012,"2025-04-09 00:00:00",Frankenversand,Germany
+11013,"2025-04-09 00:00:00","Romero y tomillo",Spain
+11014,"2025-04-10 00:00:00",LINO-Delicateses,Venezuela
+11015,"2025-04-10 00:00:00","Sant Gourmet",Norway
+11016,"2025-04-10 00:00:00","Around the Horn",UK
+11017,"2025-04-13 00:00:00","Ernst Handel",Austria
+11018,"2025-04-13 00:00:00","Lonesome Pine Restaurant",USA
+11019,"2025-04-13 00:00:00","Rancho grande",Argentina
+11020,"2025-04-14 00:00:00","Ottilies Kseladen",Germany
+11021,"2025-04-14 00:00:00",QUICK-Stop,Germany
+11022,"2025-04-14 00:00:00","Hanari Carnes",Brazil
+11023,"2025-04-14 00:00:00","B-s Beverages",UK
+11024,"2025-04-15 00:00:00","Eastern Connection",UK
+11025,"2025-04-15 00:00:00","Wartian Herkku",Finland
+11026,"2025-04-15 00:00:00","Franchi S.p.A.",Italy
+11027,"2025-04-16 00:00:00","Bottom-Dollar Markets",Canada
+11028,"2025-04-16 00:00:00","Kniglich Essen",Germany
+11029,"2025-04-16 00:00:00","Chop-suey Chinese",Switzerland
+11030,"2025-04-17 00:00:00","Save-a-lot Markets",USA
+11031,"2025-04-17 00:00:00","Save-a-lot Markets",USA
+11032,"2025-04-17 00:00:00","White Clover Markets",USA
+11033,"2025-04-17 00:00:00","Richter Supermarkt",Switzerland
+11034,"2025-04-20 00:00:00","Old World Delicatessen",USA
+11035,"2025-04-20 00:00:00","Suprmes dlices",Belgium
+11036,"2025-04-20 00:00:00","Drachenblut Delikatessen",Germany
+11037,"2025-04-21 00:00:00","Godos Cocina Tpica",Spain
+11038,"2025-04-21 00:00:00","Suprmes dlices",Belgium
+11039,"2025-04-21 00:00:00",LINO-Delicateses,Venezuela
+11040,"2025-04-22 00:00:00","Great Lakes Food Market",USA
+11041,"2025-04-22 00:00:00","Chop-suey Chinese",Switzerland
+11042,"2025-04-22 00:00:00","Comrcio Mineiro",Brazil
+11043,"2025-04-22 00:00:00","Spcialits du monde",France
+11044,"2025-04-23 00:00:00","Wolski Zajazd",Poland
+11045,"2025-04-23 00:00:00","Bottom-Dollar Markets",Canada
+11046,"2025-04-23 00:00:00","Die Wandernde Kuh",Germany
+11047,"2025-04-24 00:00:00","Eastern Connection",UK
+11048,"2025-04-24 00:00:00","Bottom-Dollar Markets",Canada
+11049,"2025-04-24 00:00:00","Gourmet Lanchonetes",Brazil
+11050,"2025-04-27 00:00:00","Folk och f HB",Sweden
+11051,"2025-04-27 00:00:00","La maison d-Asie",France
+11052,"2025-04-27 00:00:00","Hanari Carnes",Brazil
+11053,"2025-04-27 00:00:00","Piccolo und mehr",Austria
+11054,"2025-04-28 00:00:00","Cactus Comidas para llevar",Argentina
+11055,"2025-04-28 00:00:00",HILARION-Abastos,Venezuela
+11056,"2025-04-28 00:00:00","Eastern Connection",UK
+11057,"2025-04-29 00:00:00",North/South,UK
+11058,"2025-04-29 00:00:00","Blauer See Delikatessen",Germany
+11059,"2025-04-29 00:00:00","Ricardo Adocicados",Brazil
+11060,"2025-04-30 00:00:00","Franchi S.p.A.",Italy
+11061,"2025-04-30 00:00:00","Great Lakes Food Market",USA
+11062,"2025-04-30 00:00:00","Reggiani Caseifici",Italy
+11063,"2025-04-30 00:00:00","Hungry Owl All-Night Grocers",Ireland
+11064,"2025-05-01 00:00:00","Save-a-lot Markets",USA
+11065,"2025-05-01 00:00:00",LILA-Supermercado,Venezuela
+11066,"2025-05-01 00:00:00","White Clover Markets",USA
+11067,"2025-05-04 00:00:00","Drachenblut Delikatessen",Germany
+11068,"2025-05-04 00:00:00","Queen Cozinha",Brazil
+11069,"2025-05-04 00:00:00","Tortuga Restaurante",Mexico
+11070,"2025-05-05 00:00:00","Lehmanns Marktstand",Germany
+11071,"2025-05-05 00:00:00",LILA-Supermercado,Venezuela
+11072,"2025-05-05 00:00:00","Ernst Handel",Austria
+11073,"2025-05-05 00:00:00","Pericles Comidas clsicas",Mexico
+11074,"2025-05-06 00:00:00","Simons bistro",Denmark
+11075,"2025-05-06 00:00:00","Richter Supermarkt",Switzerland
+11076,"2025-05-06 00:00:00","Bon app-",France
+11077,"2025-05-06 00:00:00","Rattlesnake Canyon Grocery",USA
