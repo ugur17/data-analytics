@@ -1,3 +1,5 @@
+USE northwind;
+
 /* 1. Write a query to list the product id, product name, and unit price of every product that
 Northwind sells. (Hint: To help set up your query, look at the schema preview to see
 what column names belong to each table. Or use SELECT * to query all columns
