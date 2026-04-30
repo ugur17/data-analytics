@@ -187,3 +187,15 @@ order by 2 asc ;
 -- 16. Display total revenue for your [Category/Vendor] grouped by the store status_
 -- (from stores_table). Are active stores ('A') performing significantly better than others?
 -- (Threat: Assessing the risk of sales tied to inactive or closed locations).
+
+
+select store_status, sum(total)
+from sales s
+join stores st on s.store = st.store
+where vendor = 'Jim Beam Brands'
+group by store_status;
+
+select * 
+from sales s
+join stores st on s.store = st.store
+where store_status = 'I';
