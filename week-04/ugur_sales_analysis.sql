@@ -199,3 +199,141 @@ select *
 from sales s
 join stores st on s.store = st.store
 where store_status = 'I';
+
+
+
+-- Extra Insight
+-- We are trying to find where our vendor (Jim Beam Brands) in the top 10 stores.
+
+select 		
+	case 
+		when vendor ilike '%sazerac%' then 'Sazerac'
+		else vendor
+	end as vendor_group, 
+	sum(total) :: money
+from sales s
+join stores st on s.store= st.store
+where st.name in (
+	select st.name
+	from sales s
+	join stores st on s.store = st.store
+	group by st.name
+	order by sum(total) desc
+	limit 10
+	)
+group by 
+	case 
+		when vendor ilike '%sazerac%' then 'Sazerac'
+		else vendor
+	end
+order by sum(total) desc
+limit 10;
+
+-- Approximately 150 vendor in the top 10 store have sales
+-- Jim Beam Brands in 4th place.
+
+
+-- Extra Insight
+-- We are analysing monthly Jim Bean Brand sales in the top 10 stores.
+
+select date_trunc('month', s.date) as sales_month,
+		sum(total) :: money as jim_beam_total
+from sales s
+join stores st on st.store = s.store
+where st.name in (
+	select st.name
+	from sales s
+	join stores st on s.store = st.store
+	group by st.name
+	order by sum(total) desc
+	limit 10
+	)
+	and vendor = 'Jim Beam Brands'
+group by sales_month
+order by sales_month asc;
+
+
+
+select date_trunc('month', s.date) as sales_month,
+		sum(total) :: money as overall_total
+from sales s
+join stores st on st.store = s.store
+where st.name in (
+	select st.name
+	from sales s
+	join stores st on s.store = st.store
+	group by st.name
+	order by sum(total) desc
+	limit 10
+	)
+group by sales_month
+order by sales_month asc;
+
+select date_trunc('month', s.date) as sales_month,
+		sum(case
+			when vendor = 'Jim Beam Brands'
+			then total
+			else 0
+		end) :: money as jim_beam_total,
+		sum(total) :: money as overall_total,
+		round
+		(
+			sum(case
+				when vendor = 'Jim Beam Brands'
+				then total
+				else 0
+			end) / sum(total), 2
+		) as jim_beam_share
+from sales s
+join stores st on st.store = s.store
+where st.name in (
+	select st.name
+	from sales s
+	join stores st on s.store = st.store
+	group by st.name
+	order by sum(total) desc
+	limit 10
+	)
+group by sales_month
+order by sales_month asc;
+
+
+select * from sales;
+select * from products;
+
+
+
+-- Extra Insight
+-- We are analysing the root causes of revenue drop in certain months.
+-- Is that bcs of tx count, or average sale amount?
+
+select
+  DATE_TRUNC('month', s.date) as month,
+  count(case
+		when vendor = 'Jim Beam Brands'
+		then 1
+  end) as jim_beam_tx_count,
+  count(*) as overall_tx_count,
+  sum(case
+		when vendor = 'Jim Beam Brands'
+		then total
+		else 0
+  end) :: money as jim_beam_total,
+  sum(total) :: money as overall_total,
+  avg(case
+		when vendor = 'Jim Beam Brands'
+		then total
+  end) :: money as jim_beam_avg_ticket,
+  avg(total) :: money as overall_avg_ticket
+from sales s
+join stores st on st.store = s.store
+where st.name in (
+	select st.name
+	from sales s
+	join stores st on s.store = st.store
+	group by st.name
+	order by sum(total) desc
+	limit 10
+	)
+group by month
+order by month;
