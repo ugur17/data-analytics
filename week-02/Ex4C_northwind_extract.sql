@@ -1,3 +1,5 @@
+USE Northwind;
+
 -- 4a) The table that holds the items Northwind sells is the products table.
 -- 4b) The table that holds the categories of items is the categories table.
 
